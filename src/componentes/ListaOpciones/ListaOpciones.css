@@ -1,0 +1,21 @@
+.lista-opciones {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.lista-opciones label {
+    display: block;
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+.lista-opciones select{
+    width: 100%;
+    background-color: #fff;
+
+    border: none;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.07);
+    padding: 30px 20px;
+    outline-color: #6278F7; /*colo de borde cuando hacemos focus*/
+    font-size: 16px;
+}
